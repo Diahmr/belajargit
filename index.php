@@ -1,0 +1,1 @@
+Ini adalah texs pertama saya di git
