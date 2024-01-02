@@ -1,1 +1,1 @@
-Ini adalah texs pertama saya di git
+Ini adalah texs pertama saya di gitx
